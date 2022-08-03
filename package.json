@@ -1,0 +1,18 @@
+{
+  "name": "slot-jago",
+  "main": "./lib/slot-jago",
+  "version": "1.0.0",
+  "description": "Situs Judi Rumus Putaran Slot Jago Paling Terbaik",
+  "keywords": ["slot pragmatic play","agen slot terbaik","pragmatic play","agentotoplay","games slot gampang menang","pocket gaming soft","game slot terbaik","slot joker123"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-jago:toggle"
+  },
+  "repository": "https://github.com/slotjago/slot-jago",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

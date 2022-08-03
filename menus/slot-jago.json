@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-jago",
+        "command": "slot-jago:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-jago",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-jago:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
